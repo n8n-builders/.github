@@ -50,4 +50,5 @@ It's okay if a project stays personal. If it becomes shared, we help it grow res
 
 ---
 ### If that resonates, jump in 👋😄
-👉 **[Join the Discord Server](https://discord.gg/d3744kJXz4)** 👈
+#### 👉 [Join the Discord Server](https://discord.gg/d3744kJXz4) 👈 
+#### 💬 [Start a Github discussion](https://github.com/orgs/n8n-builders/discussions) 💬
